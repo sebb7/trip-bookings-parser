@@ -1,0 +1,27 @@
+TRIP to NYC
+Flight from SVQ to BCN at 2023-01-01 20:40 to 23:30
+Flight from BCN to NYC at 2023-01-02 01:30 to 11:50
+
+TRIP to SFO
+Flight from NYC to SFO at 2023-01-05 12:40 to 22:10
+Hotel at SFO on 2023-01-05 to 2023-01-10
+Flight from SFO to NYC at 2023-01-10 10:30 to 11:50
+Flight from NYC to SVQ at 2023-01-10 15:00 to 23:45
+
+TRIP to WAW
+Train from SVQ to MAD at 2023-04-15 09:30 to 11:00
+Train from MAD to WAW at 2023-04-15 10:30 to 21:00
+Train from WAW to SVQ at 2023-04-18 09:30 to 23:00
+
+TRIP to RDO
+Flight from SVQ to WAW at 2023-05-10 10:00 to 11:00
+Flight from WAW to KTW at 2023-05-10 15:00 to 17:00
+Flight from KTW to RDO at 2023-05-10 18:00 to 19:00
+Hotel at RDO on 2023-05-10 to 2023-05-20
+Flight from RDO to KTW at 2023-05-20 10:00 to 11:00
+Flight from KTW to WAW at 2023-05-20 15:00 to 17:00
+Flight from WAW to SVQ at 2023-05-20 18:00 to 19:00
+
+TRIP to BCN
+Flight from SVQ to BCN at 2023-06-11 10:00 to 12:00
+Flight from BCN to SVQ at 2023-06-11 20:30 to 22:30
