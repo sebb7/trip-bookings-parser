@@ -56,3 +56,10 @@ when there is less than 24 hours difference between their stop time and start ti
 - return connections to base location are not consider as separate trips
 - travel segments (train/flight) start and stop times are always in one day boundaries
 - trip to another location in one day boundaries will be recorded properly
+
+## Using the parser
+In order to parse a list of segments and view the formatted itinerary run:
+
+```elixir
+"test/fixtures/trip_bookings_1.txt" |> TripBookingsParser.to_trip_plan_format() |> IO.puts()
+```
